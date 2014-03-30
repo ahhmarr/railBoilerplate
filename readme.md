@@ -1,0 +1,1 @@
+# A Ruby on Rails Boiler plate with font awesome and basic JS 
